@@ -1,2 +1,2 @@
-# Price-Prediction
-Predict House Price in Great Toronto Area
+# HousePricePrediction
+Predict House Price in GTA
